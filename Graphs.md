@@ -40,8 +40,7 @@ John Snow: 1854 Broad Street Cholera Outbreak
 Hans Rosling
 ========================================================
 
-<iframe src="https://embed-ssl.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/jbkSRLYSojo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The Graphic Continuum 
 ========================================================
@@ -54,7 +53,7 @@ The Graphic Continuum
 The Data Visualisation Catalogue
 ========================================================
 
-<iframe src="http://www.datavizcatalogue.com/" width="854" height="1600" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen scrolling="yes"></iframe>
+<iframe src="http://www.datavizcatalogue.com/" width="854" height="800" frameborder="0" scrolling="yes" webkitAllowFullScreen mozallowfullscreen allowFullScreen ></iframe>
 
 
 
