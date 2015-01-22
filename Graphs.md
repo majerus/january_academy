@@ -4,6 +4,8 @@ author: Rich Majerus
 date:  1/22/2014
 
 
+Review: What have you covered? 
+========================================================
 
 
 
@@ -54,6 +56,18 @@ The Data Visualisation Catalogue
 ========================================================
 
 <iframe src="http://www.datavizcatalogue.com/" width="854" height="800" frameborder="0" scrolling="yes" webkitAllowFullScreen mozallowfullscreen allowFullScreen ></iframe>
+
+
+Starting to Visualize Data 
+========================================================
+
+</br>
+
+[http://www.intro-stats.com/](http://www.intro-stats.com/)
+
+</br>
+
+[https://github.com/majerus/january_academy](https://github.com/majerus/january_academy)
 
 
 
